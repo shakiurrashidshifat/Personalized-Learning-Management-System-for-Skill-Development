@@ -1,6 +1,8 @@
 # Personalized-Learning-Management-System-for-Skill-Development
 PLMS: Personalized Learning Management System  Tailor your learning journey with personalized pathways, comprehensive resources, and intuitive analytics. Enhance skills effectively.
 
+![main-gate](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/2bf072b2-fa48-4bbb-a99c-d1d62ffa2f20)
+
 # Course Title: Software Engineering
 
 # Course Code: CSE305
