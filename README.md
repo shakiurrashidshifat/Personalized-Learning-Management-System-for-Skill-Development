@@ -6,10 +6,12 @@ PLMS: Personalized Learning Management System  Tailor your learning journey with
 # Course Code: CSE305
 
 
-# Project Proposal: Personalized Learning Management System for Skill Development
+# Project Proposal:
+Personalized Learning Management System for Skill Development
 
 
-# Introduction: The Personalized Learning Management System (PLMS) for Skill Development is designed to cater to individuals seeking to enhance their skills and knowledge in various domains. The platform integrates features tailored to accommodate diverse learning styles and preferences, fostering a personalized and engaging learning experience.
+# Introduction: 
+The Personalized Learning Management System (PLMS) for Skill Development is designed to cater to individuals seeking to enhance their skills and knowledge in various domains. The platform integrates features tailored to accommodate diverse learning styles and preferences, fostering a personalized and engaging learning experience.
 
 
 # Key Features and Functionalities:
