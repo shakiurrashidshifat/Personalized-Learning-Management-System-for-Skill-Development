@@ -132,6 +132,8 @@ By offering interactive assessments and personalized feedback, the platform empo
 
 # SDLC Model Implementation - Waterfall Model:
 
+![ooooo](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/5db04a27-106a-4f3a-a21e-237ff2b75759)
+
 ## 1.Planning Phase - VisionCraft:
 In the Planning Phase - VisionCraft, the primary objective is to lay the groundwork for the development of the Personalized Learning Management System (PLMS) by conducting thorough analysis and establishing a clear vision for the project. Here's a detailed explanation of the tasks involved:
 
