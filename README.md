@@ -18,6 +18,10 @@ The Personalized Learning Management System (PLMS) for Skill Development is desi
 
 # Key Features and Functionalities:
 
+# Class diagram of Personalized Learning Management System for Skill Development:
+
+![llllllll](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/0868cca3-a7c5-47a7-aaed-3543f8cb01a4)
+
 ## 1. User Roles:
 
 ### i. Learners:
@@ -41,6 +45,10 @@ Instructors can engage with students through various communication channels such
 Administrators are responsible for managing user accounts, including creating new accounts, updating user profiles, and managing permissions and access levels. They ensure that users have the appropriate privileges to access resources and functionalities within the platform.
 #### System configuration: 
 Administrators oversee the configuration and maintenance of the learning management system. They manage system settings, customize features and functionalities, and ensure smooth operation of the platform to support teaching and learning activities.   - Analytics monitoring: Administrators utilize analytics tools to monitor user engagement, track learning outcomes, and assess the effectiveness of courses and instructional strategies. They analyze data trends, identify areas for improvement, and make informed decisions to enhance the overall learning experience.These user roles work collaboratively within the learning management system to create an interactive and engaging learning environment that supports the diverse needs and preferences of learners, instructors, and administrators.
+
+# Flowchart of Personalized Learning Management System for Skill Development:
+
+![nnnnnnnnnnnnnn](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/5bba2d43-02df-43fd-8776-b315601a7251)
 
 
 ## 2. Dashboard:
@@ -117,7 +125,10 @@ By offering interactive assessments and personalized feedback, the platform empo
   ### Role-Based Access Control (RBAC):
   Role-based access control is implemented to manage permissions and regulate user access levels within the platform. Through RBAC, administrators can define roles and assign specific permissions to users based on their roles and responsibilities. This granular control allows administrators to restrict access to sensitive features and data, ensuring that users only have access to the resources and functionalities necessary for their roles. RBAC enhances data security, minimizes the risk of unauthorized access, and maintains the integrity of the platform's security architecture.
 
+  
+# Entity relationship diagram of Personalized Learning Management System for Skill Development:
 
+![qqqqqqqqqqqqqqqq](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/1ecb2ac1-11ab-4ff4-8540-2bb38785fb6d)
 
 # SDLC Model Implementation - Waterfall Model:
 
@@ -167,7 +178,7 @@ In the Feasibility Study - Feasibility Forge phase, the focus is on evaluating t
 
 By conducting a thorough feasibility study, organizations can assess the technical and economic viability of developing the PLMS and make informed decisions regarding project initiation and resource allocation. This phase lays the groundwork for successful project planning and execution, ensuring alignment with organizational goals and objectives.
 
-## 2.System Design - Design Forge:
+## 3.System Design - Design Forge:
 In the System Design - Design Forge phase, the primary objective is to create a comprehensive blueprint for the Personalized Learning Management System (PLMS), detailing its structure, functionality, and interactions. Here's a breakdown of the tasks involved:
 
 ### i.Develop High-Level System Architecture:
@@ -193,7 +204,7 @@ In the System Design - Design Forge phase, the primary objective is to create a 
 
 By developing a robust system design, organizations can ensure that the PLMS meets the functional, performance, and usability requirements outlined in the project vision. Clear and detailed design specifications serve as a roadmap for the development team, facilitating efficient implementation and deployment of the PLMS solution.
 
-## Implementation (Coding) Phase - Code Craft:
+## 4.Implementation (Coding) Phase - Code Craft:
 During the Implementation (Coding) Phase - Code Craft, the primary focus is on translating the design specifications of the Personalized Learning Management System (PLMS) into functional software components. Here's a detailed breakdown of the tasks involved:
 
 ### i.Translate Design Specifications into Code:
@@ -319,12 +330,12 @@ By providing ongoing maintenance and support, implementing timely bug fixes and 
 
 
 # Submitted By
-MD. SHAKIUR RASHID SHIFAT
-Id: 1902049
-Level : 3 Semester : I
+##### MD. SHAKIUR RASHID SHIFAT
+###### Id: 1902049
+###### Level : 3 Semester : I
 
 
 # Submitted To
-Pankaj Bhowmik
-Lecturer
-Department of Computer Science and Engineering, HSTU
+##### Pankaj Bhowmik
+##### Lecturer
+##### Department of Computer Science and Engineering, HSTU
