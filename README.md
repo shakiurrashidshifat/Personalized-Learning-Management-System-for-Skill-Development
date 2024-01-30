@@ -8,8 +8,7 @@ PLMS: Personalized Learning Management System  Tailor your learning journey with
 # Course Code: CSE305
 
 
-# Project Proposal:
-Personalized Learning Management System for Skill Development
+# Project Proposal:Personalized Learning Management System for Skill Development
 
 
 # Introduction: 
@@ -18,9 +17,11 @@ The Personalized Learning Management System (PLMS) for Skill Development is desi
 
 # Key Features and Functionalities:
 
-# Class diagram of Personalized Learning Management System for Skill Development:
+### Flowchart of Personalized Learning Management System for Skill Development:
 
-![llllllll](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/0868cca3-a7c5-47a7-aaed-3543f8cb01a4)
+![nnnnnnnnnnnnnn](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/5bba2d43-02df-43fd-8776-b315601a7251)
+
+
 
 ## 1. User Roles:
 
@@ -46,9 +47,9 @@ Administrators are responsible for managing user accounts, including creating ne
 #### System configuration: 
 Administrators oversee the configuration and maintenance of the learning management system. They manage system settings, customize features and functionalities, and ensure smooth operation of the platform to support teaching and learning activities.   - Analytics monitoring: Administrators utilize analytics tools to monitor user engagement, track learning outcomes, and assess the effectiveness of courses and instructional strategies. They analyze data trends, identify areas for improvement, and make informed decisions to enhance the overall learning experience.These user roles work collaboratively within the learning management system to create an interactive and engaging learning environment that supports the diverse needs and preferences of learners, instructors, and administrators.
 
-# Flowchart of Personalized Learning Management System for Skill Development:
+### Class diagram of Personalized Learning Management System for Skill Development:
 
-![nnnnnnnnnnnnnn](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/5bba2d43-02df-43fd-8776-b315601a7251)
+![llllllll](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/0868cca3-a7c5-47a7-aaed-3543f8cb01a4)
 
 
 ## 2. Dashboard:
@@ -126,7 +127,7 @@ By offering interactive assessments and personalized feedback, the platform empo
   Role-based access control is implemented to manage permissions and regulate user access levels within the platform. Through RBAC, administrators can define roles and assign specific permissions to users based on their roles and responsibilities. This granular control allows administrators to restrict access to sensitive features and data, ensuring that users only have access to the resources and functionalities necessary for their roles. RBAC enhances data security, minimizes the risk of unauthorized access, and maintains the integrity of the platform's security architecture.
 
   
-# Entity relationship diagram of Personalized Learning Management System for Skill Development:
+### Entity relationship diagram of Personalized Learning Management System for Skill Development:
 
 ![qqqqqqqqqqqqqqqq](https://github.com/shakiurrashidshifat/Personalized-Learning-Management-System-for-Skill-Development/assets/157740066/1ecb2ac1-11ab-4ff4-8540-2bb38785fb6d)
 
